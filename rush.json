@@ -275,7 +275,8 @@
   },
 
   "repository": {
-    "defaultBranch": "main"
+    "defaultBranch": "main",
+    "url": "https://github.com/henryzp/pnpm-monorepo.git"
     /**
      * The URL of this Git repository, used by "rush change" to determine the base branch for your PR.
      *
