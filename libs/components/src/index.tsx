@@ -2,5 +2,5 @@ import * as React from 'react';
 
 // Delete me
 export const Thing = () => {
-  return <div>hello, zpu</div>;
+  return <div>hello</div>;
 };
